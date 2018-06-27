@@ -63,5 +63,3 @@ INSERT INTO pledges (amount, user_id, project_id) VALUES
 (10, 8, 8),
 (20, 9, 9),
 (30, 10, 10);
-
-
